@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-    NO party
+    NO Party
 </h1>
 
 
