@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-    Technolitical Party
+    Technolitical Party Framework
 </h3>
 
 
