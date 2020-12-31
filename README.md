@@ -33,6 +33,30 @@
 
 ## Considerations
 
+The `NO Party` is
+
+(i) an abstract contract of a certain kind of party and
+
+(ii) a general framework providing tools for any kind of party.
+
+
+In order for a party, any party, to become a `NO Party` it must hold as its core drive the implementation in their system of laws the following electoral option: `no one`.
+
+A party is a `NO Party` when they consider that an election is free only when people can say `no`.
+
+Voting for `no one` in a representative democracy implies that no one from the electoral list represents you and your interests. A majority win for `no one` implies that the election must be repeated with all the options from the list changed.
+
+The `NO Party` abstraction continues this vein, which the actual implementations are free to elaborate as they see fit. In the rest of the document this will be self-understood.
+
+The `no one` option can be chosen 3 consecutive times for a vote. Each repeating vote should be kept at appropriate distance one from another (from a few days to a few months, up to 6, based on the vote importance). In the case where the vote interrupts the normal flow of governance, intermediary roles are assumed. After 3 consecutive times in which `no one` is elected, the election will be considered won by a random choice election across the pool of all options from the 3 votes.
+
+The zugzwang random choice option reveals another tenet of a `NO Party`: random choice is better than corrupted action. A few months (up to 18) of stagnation is better than years (4 or more) of damnation.
+
+
+
+### What is Technolitical?
+
+The party political aspect becomes technolitical when the sole reason of existence is solving issues using the most effective and adequate technology.
 
 
 
