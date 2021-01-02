@@ -27,6 +27,7 @@
 ### Contents
 
 + [Considerations](#considerations)
++ [Tenets](#tenets)
 + [Codeophon](#codeophon)
 
 
@@ -53,10 +54,35 @@ The `no one` option can be chosen 3 consecutive times for a vote. Each repeating
 The zugzwang random choice option reveals another tenet of a `NO Party`: random choice is better than corrupted action. A few months (up to 18) of stagnation is better than years (4 or more) of damnation.
 
 
-
 ### What is Technolitical?
 
 The party political aspect becomes technolitical when the sole reason of existence is solving issues using the most effective and adequate technology.
+
+
+
+## Tenets
+
+A `NO Party` can implement the following tenets:
+
++ 0% employment rate
+
+There is no product which cannot be obtained, transported, consumed, disposed at an industrial scale using automated production and lifecycle processes. Some products are harder to automate (the automatic production of a text that can pass as valid, emotion-inducing literature, for example), however all the basic products, pertaining to the sustainability of life (food, clothes, hygiene products, and so on), will be produced and lifecycled automatically in the next years (5 to 25).
+
+What does automatic production and lifecycle mean? The entire process of preparing and managing the field for a product is handled by the machine. More so, an automatic production and lifecycle process of a certain product in a certain field will communicate with other processes, ensuring the long time maintenance of the full automatic production and lifecycle suite.
+
+In this landscape, 0% human employment rate will be a tendency at first for any field, and soon will become reality. A `NO Party` prepares and helps the appearing of the reality where no 'job' exists anymore for the human machine.
+
+It is possible to be better to have the employment rate somewhere between 0.1 and 1% intead of an actual 0%, the high-level operators of the machines (if we cannot devise a system where the control of the machines is distributed across the entire humansphere). In that case 1% is still 0%, insofar as the whole system is concerned.
+
+The tenet can be abbreviated as 0ER.
+
+<br />
+
++ universal automatic products access
+
+Considering the automatic production and lifecycle of a product, who is the owner of that product? A narrow view is that it is the author of the automation process. This view is narrow in that it presupposes that such an author can exist: making an apple pie from scratch requires the invention of an universe (Carl Sagan). Even if a single person writes the code for an automatic machine, puts every bolt in place with their own hands, they still aren't the authors of the programming language in which they coded, they are not the ones who calculated the threads in the bolt. And even if they did all those things, they, finally, did not invent the universe. Therefore, who owns an automatic product? No one: it has an unattached being. In a way it is a return to a primordial state: who owned the apple tree in which apples simply grew a million years ago on the plains of Africa? Is there a difference between the automatic production of an apple tree and the automatic production of a slightly more enginereed product such as a packaged apple pie?
+
+Since all products are destined to become automatic products, the tenet can be abbreviated as Universal Products Access (UPA).
 
 
 
